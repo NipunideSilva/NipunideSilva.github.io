@@ -14,7 +14,7 @@ footer_text: >
   © 2025 Nipuni de Silva. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> 
   with <a href="https://github.com/alshedivat/al-folio" target="_blank">al-folio</a> theme. 
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: mathematics, applied mathematics, dynamical systems, scientific machine learning, physics-informed machine learning, neural ODEs, SINDy, collective dynamics, Clarkson University # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🐉 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
