@@ -13,11 +13,10 @@
 #   title: Custom Social
 #   url: https://www.alberteinstein.com/
 
-
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 
-cv_pdf: /assets/pdf/cv.pdf          # update filename to match your actual CV PDF
+cv_pdf: /assets/pdf/cv.pdf # update filename to match your actual CV PDF
 email: desilvr@clarkson.edu
 scholar_userid: Ji2NkgcAAAAJ
 orcid_id: 0009-0009-0442-2538

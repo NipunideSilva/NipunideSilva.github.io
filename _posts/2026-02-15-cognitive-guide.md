@@ -17,13 +17,13 @@ Many of us experience a frustrating disconnect between our mental potential and 
 
 ## TL;DR — The 60-Second Summary
 
-| Problem | Fix |
-|---|---|
-| Brain fog & re-reading sentences | Active Recall + read aloud |
-| Perfectionism paralysis | The Vomit Draft + Blind Typing |
-| Decision overload & TV escape | 2-minute tasks + 10-Minute TV Tax |
+| Problem                          | Fix                               |
+| -------------------------------- | --------------------------------- |
+| Brain fog & re-reading sentences | Active Recall + read aloud        |
+| Perfectionism paralysis          | The Vomit Draft + Blind Typing    |
+| Decision overload & TV escape    | 2-minute tasks + 10-Minute TV Tax |
 
-> **The Goal:** Stop waiting for the *perfect* moment and start training your nervous system to react faster than your hesitation.
+> **The Goal:** Stop waiting for the _perfect_ moment and start training your nervous system to react faster than your hesitation.
 
 ---
 
@@ -35,15 +35,18 @@ Many of us experience a frustrating disconnect between our mental potential and 
 
 **Active Recall Pauses**
 After reading a paragraph, look away and summarize the main point out loud.
-- *Why it works:* Forces the brain to switch from passive scanning to active synthesis.
+
+- _Why it works:_ Forces the brain to switch from passive scanning to active synthesis.
 
 **Vocalization**
 Read difficult or technical text aloud.
-- *Why it works:* Engages the auditory cortex, using a second neural pathway to decode meaning.
+
+- _Why it works:_ Engages the auditory cortex, using a second neural pathway to decode meaning.
 
 **The "Quiet Eye" Technique**
 Fix your gaze on a single unmoving point for 3 seconds before starting a difficult task.
-- *Why it works:* Quiets the motor cortex and reduces internal mental noise.
+
+- _Why it works:_ Quiets the motor cortex and reduces internal mental noise.
 
 ---
 
@@ -55,15 +58,18 @@ Fix your gaze on a single unmoving point for 3 seconds before starting a difficu
 
 **The Vomit Draft**
 Force yourself to produce a low-quality, "1/10" version of a task first.
-- *Why it works:* You cannot refine what doesn't exist. This bypasses the fear of imperfection that causes stalling.
+
+- _Why it works:_ You cannot refine what doesn't exist. This bypasses the fear of imperfection that causes stalling.
 
 **Blind Typing**
 Practice typing with your monitor off or dimmed for 5-minute bursts.
-- *Why it works:* Stops the internal editor from interrupting your flow. Trains your brain to prioritize thought-output over error-correction.
+
+- _Why it works:_ Stops the internal editor from interrupting your flow. Trains your brain to prioritize thought-output over error-correction.
 
 **The "Plus One" Rule**
-Commit to adding exactly one extra detail or *why* to every short response you give.
-- *Why it works:* Builds communication stamina and breaks the reflex of cognitive avoidance.
+Commit to adding exactly one extra detail or _why_ to every short response you give.
+
+- _Why it works:_ Builds communication stamina and breaks the reflex of cognitive avoidance.
 
 ---
 
@@ -75,19 +81,23 @@ Commit to adding exactly one extra detail or *why* to every short response you g
 
 **The Smallest Task First**
 Ignore importance for a moment. Pick the task that takes less than 2 minutes.
-- *Why it works:* Completion triggers dopamine. Momentum matters more than priority when you are stuck at zero.
+
+- _Why it works:_ Completion triggers dopamine. Momentum matters more than priority when you are stuck at zero.
 
 **The Closed List**
 Choose only **three** tasks and write them on a physical note. Hide the master list.
-- *Why it works:* Removes the cognitive load of constantly re-choosing what to do next.
+
+- _Why it works:_ Removes the cognitive load of constantly re-choosing what to do next.
 
 **The 10-Minute TV Tax**
-You are allowed to watch your show — but only *after* 10 minutes of focused work on an avoided task.
-- *Why it works:* The friction of a task is highest in the first few minutes. Once you start, the urge to escape usually fades.
+You are allowed to watch your show — but only _after_ 10 minutes of focused work on an avoided task.
+
+- _Why it works:_ The friction of a task is highest in the first few minutes. Once you start, the urge to escape usually fades.
 
 **The Parking Lot**
 Keep a sticky note nearby. When a distracting thought arises, write it down and immediately return to the current task.
-- *Why it works:* Signals to your brain that the idea is saved, allowing working memory to release it.
+
+- _Why it works:_ Signals to your brain that the idea is saved, allowing working memory to release it.
 
 ---
 
@@ -95,11 +105,11 @@ Keep a sticky note nearby. When a distracting thought arises, write it down and 
 
 **The Problem:** Sluggish physical reaction times and low mental energy undermine every cognitive strategy above.
 
-| Practice | Duration | Benefit |
-|---|---|---|
-| Zone 2 Cardio | 30 min steady-state | Increases BDNF for brain health |
-| Cold Exposure | 30-sec cold shower burst | Spikes norepinephrine for instant focus |
-| Neuromuscular Drills | 5–10 min | Sharpens eye-to-hand neural pathways |
+| Practice             | Duration                 | Benefit                                 |
+| -------------------- | ------------------------ | --------------------------------------- |
+| Zone 2 Cardio        | 30 min steady-state      | Increases BDNF for brain health         |
+| Cold Exposure        | 30-sec cold shower burst | Spikes norepinephrine for instant focus |
+| Neuromuscular Drills | 5–10 min                 | Sharpens eye-to-hand neural pathways    |
 
 ---
 
