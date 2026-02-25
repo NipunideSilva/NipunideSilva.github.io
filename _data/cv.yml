@@ -1,189 +1,290 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Nipuni de Silva
+  label: PhD Candidate in Applied Mathematics
+  email: desilvr@clarkson.edu
+  location: Potsdam, NY
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: >
+    PhD candidate at Clarkson University specializing in data-driven dynamical systems
+    and scientific machine learning. Experienced in mathematical modeling, numerical methods,
+    and physics-informed machine learning with applications in biology, physics, and engineering.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: NipunideSilva
     - network: LinkedIn
-      username: example
+      username: nipunisdsr
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
+    city: Potsdam
+    region: New York
     countryCode: US
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: Clarkson University
+        location: Potsdam, NY
+        url: https://www.clarkson.edu/
+        area: Mathematics
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+        start_date: 2022
+        end_date: 2026
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Advisor: Dr. James Greene"
+          - "Thesis: Dynamics on Collective Motion"
+          - "GPA: 3.84 / 4.00"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Clarkson University
+        location: Potsdam, NY
+        url: https://www.clarkson.edu/
+        area: Mathematics
+        studyType: MS
+        start_date: 2019
+        end_date: 2022
         highlights:
-          - Description 1.
-          - Description 2.
+          - "GPA: 3.83 / 4.00"
+
+      - institution: University of Kelaniya
+        location: Kelaniya, Sri Lanka
+        url: https://www.kln.ac.lk/
+        area: Mathematics (Minor - Computer Science)
+        studyType: BSc
+        start_date: 2014
+        end_date: 2018
+        highlights:
+          - "GPA: 3.73 / 4.00"
+          - "Dean's List 2016–2017, 2017–2018"
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Clarkson University
+        position: PhD Candidate & Research Assistant
+        location: Potsdam, NY
+        start_date: 2023
+        end_date: present
         highlights:
-          - Relativity
-          - Description 2.
+          - Designed a variational learning framework to infer interaction kernels and environmental forces in physics-inspired collective dynamics models using trajectory data from high-dimensional agent-based systems.
+          - Implemented parametric and nonparametric estimators for interaction laws and evaluated performance under varying data regimes and noise levels.
+          - Developed reproducible simulation and evaluation pipelines incorporating training randomness analysis, KDE-based weighting, and statistically grounded error metrics.
+          - Applied methods to models in biology, physics, and engineering including phototaxis in bacteria and opinion dynamics.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Vironix Health — MPI–SIAM Workshop
+        position: Industry Research Collaborator
+        location: Claremont, CA
+        start_date: 2025
+        end_date: 2025
         highlights:
-          - Description 1.
-          - Description 2.
+          - Developed a domain-expertise-aware aggregation framework reweighting GAN discriminator outputs using distances in VAE-learned latent spaces.
+          - Designed a decision model to reassess clinician judgments on synthetic chronic kidney disease (CKD) patient reports.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: SIAM Graduate Student Mathematical Modeling Camp (GSMMC)
+        position: Research Collaborator
+        location: Pomona, CA
+        start_date: 2025
+        end_date: 2025
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Investigated randomized least-squares regression using Johnson–Lindenstrauss sketching methods (SJLT, SRHT) to reduce dimensionality while preserving predictive accuracy.
+          - Applied techniques to high-dimensional classification tasks including cancer detection and handwritten digit recognition.
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: University of Kelaniya
+        position: Instructor, Department of Mathematics
+        location: Kelaniya, Sri Lanka
+        start_date: 2018
+        end_date: 2019
+        highlights:
+          - Taught Scientific Computing I & II (MATLAB), Elementary ODEs, and Discrete Mathematics for Computing.
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+    Teaching:
+      - company: Clarkson University
+        position: Teaching Assistant & Instructor, Department of Mathematics
+        location: Potsdam, NY
+        start_date: 2019
+        end_date: present
+        highlights:
+          - "Instructor: MA 41 Co-Calculus I (Fall 2021, Spring 2023, Spring 2024, Fall 2025), MA 42 Co-Calculus II (Fall 2022, Fall 2024)"
+          - "Teaching Assistant: Calculus I–III, Elementary ODEs, Numerical Methods — supporting 120+ students per semester"
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "Nonparametric Learning of Environmental and Collective Dynamics"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - de Silva, Nipuni
+          - Zhong, Ming
+          - Greene, James
+        publisher: Manuscript in advanced preparation; preprint planned prior to submission
+        releaseDate: 2026
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: "Randomized Matrix Sketching and Least Squares Methods for Classification Problems"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Besabe, Lander
+          - Bhatt, Harshit
+          - Calman, Kendra
+          - Chen, Jessie
+          - de Silva, Nipuni
+          - Dodamgodage, Sucharitha
+        publisher: SIAM Graduate Student Mathematical Modeling Camp
+        releaseDate: 2025
+        url: https://www.siam.org/media/42tb0vd0/gsmmc2025_matrixskectching.pdf
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: "Analysis of Clinician Evaluation of Synthetic Chronic Kidney Disease Data"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Aminian, Manuchehr
+          - de Silva, Nipuni
+          - Dodamgodage, Sucharitha
+          - Edwards, David A
+          - Gandhi, Darsh
+          - Harbour, Nicholas
+          - Van Le, Hai
+          - Lopes, Luan
+          - Petrucci, Adam
+          - Samakhoana, Thabo
+        publisher: SIAM Mathematical Problems in Industry Workshop
+        releaseDate: 2025
+        url: https://www.siam.org/media/coxjdvkn/2025vironix_final.pdf
+
+    Talks:
+      - title: Dynamics and Learning of Collective Systems
+        date: 2025-10-01
+        venue: Mathematical Association of America (MAA) — Seaway Fall Meeting 2025
+
+      - title: Learning Interactions in Collective Dynamics
+        date: 2025-03-01
+        venue: Institute for Mathematical and Statistical Innovations (IMSI) — Emergent Behavior in Complex Systems
+
+      - title: Dynamics and Learning for Interacting Particle Systems
+        date: 2024-05-01
+        venue: ICERM — Interacting Particle Systems Workshop
+
+      - title: Dynamics and Learning of Interacting Particle Systems
+        date: 2024-04-01
+        venue: Clarkson University Research and Project Showcase (RAPS)
+
+      - title: Data-Driven Stochastic Differential Equation Models for Emergent Behavior in Collective Dynamics
+        date: 2023-11-01
+        venue: SIAM New York–New Jersey–Pennsylvania Section Conference (SIAM-NNP)
+
+      - title: Deep Learning the Dynamical Model for Evolution of Two-Dimensional Vortex Dynamics
+        date: 2023-06-01
+        venue: SIAM Conference on Applications of Dynamical Systems (DS23), Portland
+
+    Awards:
+      - title: Graduate Student Teaching Award
+        awarder: Clarkson University — CREW (Celebration and Recognition of Excellence Weekend)
+        date: 2025
+
+      - title: IMSI Travel Support
+        awarder: Institute for Mathematical and Statistical Innovation (IMSI)
+        date: 2025
+
+      - title: NNP-SIAM Travel Award
+        awarder: Society for Industrial and Applied Mathematics
+        date: 2024
+
+      - title: ICERM Travel Support
+        awarder: ICERM — Interacting Particle Systems Workshop
+        date: 2024
+
+      - title: CUGSA Graduate Student Travel Award
+        awarder: Clarkson University Graduate Student Association
+        date: 2024
+
+      - title: CUGSA Graduate Student Travel Award
+        awarder: Clarkson University Graduate Student Association
+        date: 2023
+
+      - title: Dean's List
+        awarder: Faculty of Science, University of Kelaniya
+        date: 2017
+
+      - title: Dean's List
+        awarder: Faculty of Science, University of Kelaniya
+        date: 2016
+
+    Leadership:
+      - company: Sri Lankan Student Association, Clarkson University
+        position: President
+        location: Potsdam, NY
+        start_date: 2024
+        end_date: 2025
+        highlights:
+          - Led cross-functional student initiatives, coordinated events and resources, and represented community needs to university stakeholders.
+
+      - company: Sri Lankan Student Association, Clarkson University
+        position: Secretary
+        location: Potsdam, NY
+        start_date: 2023
+        end_date: 2024
+
+      - company: Graduate Student Association, Clarkson University
+        position: Treasurer
+        location: Potsdam, NY
+        start_date: 2024
+        end_date: 2025
+        highlights:
+          - Managed budgets, coordinated events for 150+ participants, and collaborated with faculty and university administration.
+
+      - company: Graduate Student Association, Clarkson University
+        position: Councilor & Committee Member
+        location: Potsdam, NY
+        start_date: 2023
+        end_date: 2025
+        highlights:
+          - Travel Grants Committee (Lead, 2024–2025)
+          - Financial Bylaw Revision Committee (Lead, 2024–2025)
+          - Association Bylaw Revision Committee
+          - Academic Integrity Committee
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Programming
+        icon: fa-solid fa-code
+        keywords: "Python, MATLAB, Julia"
+
+      - name: Machine Learning & Data Science
+        icon: fa-solid fa-brain
+        keywords: "PyTorch, TensorFlow, NumPy, SciPy, scikit-learn, Neural ODEs, SINDy, Physics-informed ML"
+
+      - name: Mathematics
+        icon: fa-solid fa-square-root-variable
+        keywords: "Dynamical Systems, Numerical Methods, Optimization, Statistical Modeling, Stochastic Differential Equations"
+
+      - name: Tools
+        icon: fa-solid fa-wrench
+        keywords: "Git, LaTeX, MATLAB"
+
+    Certificates:
+      - name: Deep Learning Specialization
+        date: 2024
+        issuer: DeepLearning.AI
+        icon: fa-solid fa-certificate
 
     Languages:
-      - name: German
-        summary: "Native speaker"
-
       - name: English
         summary: "Fluent"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Sinhala
+        summary: "Native speaker"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+    Affiliations:
+      - name: Association for Women in Mathematics (AWM)
+        icon: fa-solid fa-users
+      - name: Society for Mathematical Biology (SMB)
+        icon: fa-solid fa-users
+      - name: Society for Industrial and Applied Mathematics (SIAM)
+        icon: fa-solid fa-users
+      - name: Pi Mu Epsilon
+        icon: fa-solid fa-users
 
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Dr. James Greene
+        icon: fa-solid fa-user
+        reference: Assistant Professor, Department of Mathematics, Clarkson University, Potsdam, NY
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Dr. Guangming Yao
+        icon: fa-solid fa-user
+        reference: Department Chair, Department of Mathematics, Clarkson University, Potsdam, NY
+
+      - name: Dr. Thevasha Sathiyakumar
+        icon: fa-solid fa-user
+        reference: Visiting Assistant Professor, Clarkson University, Potsdam, NY
+
+      - name: Prof. Christopher Martin
+        icon: fa-solid fa-user
+        reference: Instructor, Clarkson University, Potsdam, NY
