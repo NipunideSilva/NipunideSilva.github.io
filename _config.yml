@@ -11,7 +11,7 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD student at Clarkson University working on data-driven dynamical systems and physics-informed machine learning. I am passionate about developing interpretable machine learning models that can provide insights into complex physical phenomena and help us better understand the world around us.
 footer_text: >
-  © 2025 Nipuni de Silva. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> 
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> 
   with <a href="https://github.com/alshedivat/al-folio" target="_blank">al-folio</a> theme. 
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: mathematics, applied mathematics, dynamical systems, scientific machine learning, physics-informed machine learning, neural ODEs, SINDy, collective dynamics, Clarkson University # add your own keywords or leave empty
