@@ -15,5 +15,5 @@ stars: 5
 status: Finished
 ---
 
-Write your personal review or thoughts about the book here. What did you learn? 
+Write your personal review or thoughts about the book here. What did you learn?
 What stood out to you? How did it change the way you think?
