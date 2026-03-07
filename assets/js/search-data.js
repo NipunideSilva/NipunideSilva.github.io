@@ -67,11 +67,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/steve-jobs/";
-            },},{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
             },},{id: "books-ikigai-the-japanese-secret-to-a-long-and-happy-life",
           title: 'Ikigai: The Japanese Secret to a Long and Happy Life',
           description: "",
