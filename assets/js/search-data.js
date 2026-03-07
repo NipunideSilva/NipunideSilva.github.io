@@ -62,14 +62,9 @@ ninja.data = [{
             window.location.href = "/blog/2026/cognitive-guide/";
           
         },
-      },{id: "books-ikigai-the-japanese-secret-to-a-long-and-happy-life",
-          title: 'Ikigai: The Japanese Secret to a Long and Happy Life',
-          description: "A Japanese concept meaning &quot;reason for being&quot; — the book explores the  intersection of what you love, what you are good at, what the world needs,  and what you can be paid for.",
-          section: "Books",handler: () => {
-              window.location.href = "/books/ikigai/";
-            },},{id: "books-steve-jobs",
+      },{id: "books-steve-jobs",
           title: 'Steve Jobs',
-          description: "The exclusive biography of Steve Jobs, based on more than forty interviews  with Jobs conducted over two years, as well as interviews with more than  one hundred family members, friends, adversaries, competitors, and colleagues.",
+          description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/steve-jobs/";
             },},{id: "books-the-godfather",
@@ -77,6 +72,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "books-ikigai-the-japanese-secret-to-a-long-and-happy-life",
+          title: 'Ikigai: The Japanese Secret to a Long and Happy Life',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/ikigai/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
