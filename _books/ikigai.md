@@ -15,11 +15,11 @@ stars: 4
 status: Finished
 ---
 
-When I got into the first few pages of this book, my mind kept asking: *"Is a long, 
-healthy life the same as a happy life?"* Who defines happiness anyway?
+When I got into the first few pages of this book, my mind kept asking: _"Is a long,
+healthy life the same as a happy life?"_ Who defines happiness anyway?
 
-This book is fascinating in how it explores the lifestyle habits of people who have 
-lived past 100 years. The authors identify four common threads that seem to define 
+This book is fascinating in how it explores the lifestyle habits of people who have
+lived past 100 years. The authors identify four common threads that seem to define
 their way of life:
 
 1. **A nurturing natural environment** — living close to nature, away from chronic stress
@@ -29,8 +29,6 @@ their way of life:
 
 Together, these habits appear to create the conditions for a long and healthy life.
 
-But the question I kept coming back to is — *is that enough?* Can a person truly be 
-happy simply because they live long? Or is longevity just one ingredient in a much 
+But the question I kept coming back to is — _is that enough?_ Can a person truly be
+happy simply because they live long? Or is longevity just one ingredient in a much
 more complex recipe for a meaningful life?
-
-
