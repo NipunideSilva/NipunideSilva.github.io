@@ -1,12 +1,19 @@
 ---
-layout: book
+layout: book-review
 title: Steve Jobs
 author: Walter Isaacson
-year_read: 2023
-cover: steve_jobs.jpg
-rating: 5 # out of 5, optional
-description: >
-  The exclusive biography of Steve Jobs, based on more than forty interviews 
-  with Jobs conducted over two years, as well as interviews with more than 
-  one hundred family members, friends, adversaries, competitors, and colleagues.
+cover: assets/img/book_covers/steve_jobs.jpg
+isbn: 9781451648539
+categories: biography technology business
+tags: recommended
+buy_link: https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537
+date: 2023-12-31
+started: 2023-01-01
+finished: 2023-12-31
+released: 2011
+stars: 5
+status: Finished
 ---
+
+Write your personal review or thoughts about the book here. What did you learn? 
+What stood out to you? How did it change the way you think?
