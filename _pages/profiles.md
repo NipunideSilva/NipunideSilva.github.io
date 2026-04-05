@@ -27,4 +27,13 @@ profiles:
       <p>Assistant Professor</p>
       <p>Department of Mathematics</p>
       <p>University of Houston</p>
+
+  - align: left
+    image: marko_budisic.jpg
+    content: about_marko_budisic.md
+    image_circular: true
+    more_info: >
+      <p>Associate Professor</p>
+      <p>Department of Mathematics</p>
+      <p>Clarkson University</p>
 ---
