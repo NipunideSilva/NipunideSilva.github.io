@@ -69,7 +69,7 @@ _Pomona, CA — June 2025_
 
 ### Graduate Student Association (GSA), Clarkson University
 
-*[Treasurer — 2024–2025](https://www.instagram.com/p/C6qyFKzuVti/) | [Councilor — 2023–2024](https://www.instagram.com/p/CxQhmgYuws0/)*
+_[Treasurer — 2024–2025](https://www.instagram.com/p/C6qyFKzuVti/) | [Councilor — 2023–2024](https://www.instagram.com/p/CxQhmgYuws0/)_
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
   <img src="../assets/img/gsa_team.png" width="300" style="border-radius: 8px;">
