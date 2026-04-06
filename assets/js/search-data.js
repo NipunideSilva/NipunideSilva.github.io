@@ -31,8 +31,8 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-people",
-          title: "people",
-          description: "Collaborators and advisors I work with",
+          title: "People",
+          description: "Collaborators and academic activities",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
